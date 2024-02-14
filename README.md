@@ -11,7 +11,6 @@ Sistema de Pomodoro. interface intuitiva e facil localização, perfeito para co
 ## Confira você mesmo!
 
 <img src="https://github.com/Thais-DN/Fokus/blob/master/Tela.gif" alt="VideoTela">
-<p>Projeto HTML e CSS prontos pela equipe da Alura</p>
 
 Confira a demonstração do projeto: [Sistema pomodoro](https://fokus-jet-three.vercel.app/)
 
